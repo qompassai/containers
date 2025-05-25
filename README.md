@@ -7,6 +7,7 @@
 <h3> Qompass AI on Containers </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-containers)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/containers/total?style=flat-square)
   <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers">
 </a>
@@ -190,23 +191,6 @@ Where:
 ### A: AI models ~=10 billion(10B) parameters and below. For comparison, OpenAI's GPT4o contains approximately 200B parameters.
 
 </details>
-
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
-Badge
-
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
-```
-
----
-
-- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-</details>
-
-## 🧭 Attribution
-
 
 
 <details id="Dual-License Notice">
